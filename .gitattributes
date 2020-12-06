@@ -1,3 +1,2 @@
-model_transfer.ptmodel_transfer.pt filter=lfs diff=lfs merge=lfs -text
 capstone-project/dog-project/model_scratch.pt filter=lfs diff=lfs merge=lfs -text
 capstone-project/dog-project/model_transfer.pt filter=lfs diff=lfs merge=lfs -text
