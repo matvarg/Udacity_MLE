@@ -1,2 +1,2 @@
 # Udacity_MLE
-Projects from the course Machine Learning Engineer
+My project from the Machine Learning Engineer Nanodegree
